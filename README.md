@@ -7,7 +7,6 @@
 
 ## Video Walkthrough
 Logging a new exercise
-<img src='https://imgur.com/58425a2' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+![Demo File](https://github.com/BrandonJLei/Exercise-Tracker/blob/main/ExerciseTrackerAddingToLog.gif)
 Editing an exercise
-<img src='https://imgur.com/BtZUpRa' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Demo File](https://github.com/BrandonJLei/Exercise-Tracker/blob/main/ExerciseTrackerEditingLog.gif)
